@@ -1,0 +1,16 @@
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\bin\Debug\FirstWPF.exe.config
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\bin\Debug\FirstWPF.exe
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\bin\Debug\FirstWPF.pdb
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\bin\Debug\FirstWPF.xml
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.vbprojResolveAssemblyReference.cache
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\obj\Debug\MainWindow.g.vb
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\obj\Debug\Application.g.vb
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF_MarkupCompile.cache
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF_MarkupCompile.lref
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\obj\Debug\MainWindow.baml
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.g.resources
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.Resources.resources
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.vbproj.GenerateResource.Cache
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.exe
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.xml
+c:\users\assassinted\documents\visual studio 2015\Projects\FirstWPF\FirstWPF\obj\Debug\FirstWPF.pdb
